@@ -234,7 +234,7 @@ class Bomembership extends MX_controller
 							'barang'	=> $_POST['stockId'][$key] ,
 							'jumlah'	=> $_POST['jumlah'][$key]
 						);
-						
+						 
 					}
 
 					$pengiriman = array();
